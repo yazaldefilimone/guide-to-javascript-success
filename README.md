@@ -1,150 +1,152 @@
-# Guiao para careira solida em Javascript.
+# Guião para careira solida em Javascript.
 
-<IMG SRC="https://logowik.com/content/uploads/images/3799-javascript.jpg">
+<p align="center">
+  <img width="50%" src="https://logowik.com/content/uploads/images/3799-javascript.jpg">
+</p>
 
 
 
-## pre-requisitos
-- [  ] lógica de programação.
-- [  ] Cliente e Servidor.
-- [  ] Entender o que significa ser case-sensitive.
+## Pre-requisitos
+- [ ] Lógica de programação.
+- [ ] Cliente e Servidor.
+- [ ] Entender o que significa ser case-sensitive.
 
-## importante
-- [  ] HTML
-- [  ] CSS
-- [  ] Unicode
+## Importante
+- [ ] HTML
+- [ ] CSS
+- [ ] Unicode
 
-## como rodar o codigo Javascript?
-- [  ] Console.
-- [  ] Script Tag.
-- [  ] Link Externo.
+## Como rodar o codigo Javascript?
+- [ ] Console.
+- [ ] Script Tag.
+- [ ] Link Externo.
 
-## Comentarios.
-- [  ] Linha
-- [  ] Bloco
+## Comentários.
+- [ ] Linha
+- [ ] Bloco
 
-## Variavel
-- [  ] var. 
-- [  ] Escopo
-- [  ] let, const.
-- [  ] Hoisting.
+## Variável.
+- [ ] Var. 
+- [ ] Escopo
+- [ ] Let e Const.
+- [ ] Hoisting.
 
-## Tipos
-- [  ] Null. 
-- [  ] Object. 
-- [  ] Function. 
-- [  ] Undefined. 
-- [  ] Boolean. 
-- [  ] Number.
-- [  ] String.
+## Tipos.
+- [ ] Null. 
+- [ ] Object. 
+- [ ] Function. 
+- [ ] Undefined. 
+- [ ] Boolean. 
+- [ ] Number.
+- [ ] String.
 
 ## Conversao de tipos.
-- [  ] Explicita.
-- [  ] Implicita.
+- [ ] Explicita.
+- [ ] Implicita.
 
-## Literais
-- [  ] Array.
-- [  ] Object.
-- [  ] Boolean.
-- [  ] Number.
-- [  ] String.
+## Literais.
+- [ ] Array.
+- [ ] Object.
+- [ ] Boolean.
+- [ ] Number.
+- [ ] String.
 
-## Estruturas de repeticao
-- [  ] while.
-- [  ] do while.
-- [  ] for.
-- [  ] for in.
-- [  ] for of.
-- [  ] break.
-- [  ] continue.
+## Estruturas de repetição.
+- [ ] While.
+- [ ] Do while.
+- [ ] For.
+- [ ] For in.
+- [ ] For of.
+- [ ] Break.
+- [ ] Continue.
 
-## Declaracao 6condicional.
-- [  ] if else.
-- [  ] switch.
-- [  ] falsy.
-- [  ] == vs ===.
+## Declaração condicional.
+- [ ] If else.
+- [ ] Switch.
+- [ ] Falsy.
+- [ ] == vs ===.
 
 ## Tratamento de Erro. 
-- [  ] try catch finaly.
-- [  ] throw.
-- [  ] Error.
+- [ ] Try catch finaly.
+- [ ] Throw.
+- [ ] Error.
 
-## Operadores
-- [  ] Atribuicao (*, +=, -=)..
-- [  ] Comparacao (==, ===, !==, !===, > , <).
-- [  ] Aritmétricos (  +, -,  *, /, ++).
-- [  ] Atribuicao (*, +=, -=).
-- [  ] Logicos (&&, ||, !).
-- [  ] Condicional (? :).
-- [  ] Virgula.
-- [  ] Relacionais (in,  instaceof).
-- [  ] String (+).
-- [  ] Unarios ( delete, typeof).
-- [  ] Agrupamento ().
-- [  ] Precedéncia  de operadores.
-- [  ] Tabela Verdade.
+## Operadores.
+- [ ] Atribuicao (*, +=, -=)..
+- [ ] Comparacao (==, ===, !==, !===, > , <).
+- [ ] Aritmétricos (  +, -,  *, /, ++).
+- [ ] Atribuição (*, +=, -=).
+- [ ] Lógicos (&&, ||, !).
+- [ ] Condicional (? :).
+- [ ] Vírgula.
+- [ ] Relacionais (in,  instaceof).
+- [ ] String (+).
+- [ ] Unarios ( delete, typeof).
+- [ ] Agrupamento ().
+- [ ] Precedéncia  de operadores.
+- [ ] Tabela Verdade.
 
-## Functions
-- [  ] Declaracao.
-- [  ] Funcoes anonimas.
-- [  ] Chamar.
-- [  ] Parametros.
-- [  ] args.
-- [  ] Escopo.
-- [  ] Closure.
-- [  ] Currying.
-- [  ] Higher Order Functions.
-- [  ] Arrow function.
-- [  ] Spread Operator.
+## Funções.
+- [ ] Declaração.
+- [ ] Funções anonimas.
+- [ ] Chamar.
+- [ ] Parâmetros.
+- [ ] Args.
+- [ ] Escopo.
+- [ ] Closure.
+- [ ] Currying.
+- [ ] Higher Order Functions.
+- [ ] Arrow function.
+- [ ] Spread Operator.
 
-## Classes
-- [  ] this.
-- [  ] Prototype.
-- [  ] Desestruturacao de objectos. 
-- [  ] JSON.
-- [  ] new.
-- [  ] super.
-- [  ] constructor.
-- [  ] static.
-- [  ] extends.
-- [  ] get/set.
+## Classes.
+- [ ] This.
+- [ ] Prototype.
+- [ ] Desestruturacao de objectos. 
+- [ ] JSON.
+- [ ] New.
+- [ ] Super.
+- [ ] Constructor.
+- [ ] Static.
+- [ ] Extends.
+- [ ] Get/Set.
 
-## classes importantes
-- [  ] Array (push, pop, join, concat, sort, slice, splice, map, filter, reduce).
-- [  ] Date (setDate, getDate, setDay, getDay, setMonth, getMonth).
-- [  ] String (charAt, indexOf, slice, splite, trim, toLowerCase, toUpperCase).
-- [  ] Intl (formatar datas, numeros ).
-- [  ] RegExp (buscas avançadas em strings ).
+## Classes importantes.
+- [ ] Array (push, pop, join, concat, sort, slice, splice, map, filter, reduce).
+- [ ] Date (setDate, getDate, setDay, getDay, setMonth, getMonth).
+- [ ] String (charAt, indexOf, slice, splite, trim, toLowerCase, toUpperCase).
+- [ ] Intl (formatar datas, numeros ).
+- [ ] RegExp (buscas avançadas em strings ).
 
-## Programacao assincrona
-- [  ] setTimeout.
-- [  ] setInterval.
-- [  ] callback.
-- [  ] promise.
-- [  ] async await.
-- [  ] Event Loop.
+## Programação assíncrona.
+- [ ] SetTimeout.
+- [ ] SetInterval.
+- [ ] Callback.
+- [ ] Promise.
+- [ ] Async await.
+- [ ] Event Loop.
 
-## Modulos
-- [  ] CJS.
-- [  ] ESM.
-- [  ] import.
-- [  ] export.
-- [  ] default export.
-- [  ] named export.
+## Módulos.
+- [ ] CJS.
+- [ ] ESM.
+- [ ] Import.
+- [ ] Export.
+- [ ] Default export.
+- [ ] Named export.
 
-## proximos Passos.
-- [  ] git e github.
-- [  ] DOM.
-- [  ] Storage.
-- [  ] eslint.
-- [  ] pretter.
-- [  ] webpack.
-- [  ] typescript.
-- [  ] Node.
-- [  ] React/Angular/Vue.
-
-
+## Próximos passos.
+- [ ] Git e Github.
+- [ ] DOM.
+- [ ] Storage.
+- [ ] Eslint.
+- [ ] Pretter.
+- [ ] Webpack.
+- [ ] Typescript.
+- [ ] Node.
+- [ ] React/Angular/Vue.
 
 
 
-feito com 💙 por [Yazalde Filimone](https://github.com/yazaldefilimonepinto/)
+
+
+Feito com 💙 por [Yazalde Filimone](https://github.com/yazaldefilimonepinto/)
