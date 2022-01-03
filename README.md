@@ -1,5 +1,9 @@
 # Guiao para careira solida em Javascript.
 
+<IMG SRC="https://logowik.com/content/uploads/images/3799-javascript.jpg">
+
+
+
 ## pre-requisitos
 - [  ] lógica de programação.
 - [  ] Cliente e Servidor.
@@ -138,3 +142,9 @@
 - [  ] typescript.
 - [  ] Node.
 - [  ] React/Angular/Vue.
+
+
+
+
+
+feito com 💙 por [Yazalde Filimone](https://github.com/yazaldefilimonepinto/)
