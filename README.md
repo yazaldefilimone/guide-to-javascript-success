@@ -1,7 +1,7 @@
 # Guião para careira solida em Javascript.
 
 <p align="center">
-  <img width="50%" src="https://logowik.com/content/uploads/images/3799-javascript.jpg">
+  <img width="70%" src="https://logowik.com/content/uploads/images/3799-javascript.jpg">
 </p>
 
 
